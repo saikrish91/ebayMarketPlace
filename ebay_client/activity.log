@@ -1,0 +1,576 @@
+19:42:45.060 INFO  getcartvolume K2UsksrRRH68IiiYYpxR6kOxj3Z2v1zO performed at 2016-11-05T02:42:45.058Z 
+19:42:45.074 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T02:42:45.073Z 
+19:43:04.145 INFO  getcartvolume NwAclCT2ZrFKJ8aiOTcun1gGmqvtv1UJ performed at 2016-11-05T02:43:04.145Z 
+19:43:04.148 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T02:43:04.148Z 
+19:45:36.339 INFO  getcartvolume s5C8Pl8oBeegSeTmW4mx_y1qx8vQwPY3 performed at 2016-11-05T02:45:36.338Z 
+19:45:36.362 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T02:45:36.362Z 
+19:50:40.815 INFO  getcartvolume 50nhIWjVxmvSPMVpgD248PGbqYmDlKkk performed at 2016-11-05T02:50:40.814Z 
+19:50:40.830 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T02:50:40.830Z 
+19:51:53.099 INFO  getcartvolume vILbyehqoFbYnly0rkHM5y0yhwNviDBm performed at 2016-11-05T02:51:53.098Z 
+19:51:53.130 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T02:51:53.130Z 
+19:52:41.015 INFO  getcartvolume ocb1lhhNrTN1K3Xdc8DbBAm61hJClnyg performed at 2016-11-05T02:52:41.015Z 
+19:52:41.018 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T02:52:41.018Z 
+20:21:32.390 INFO  getcartvolume EAk0QCK-qtbY4obUSP3dSOezgAthhr-I performed at 2016-11-05T03:21:32.389Z 
+20:21:32.408 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T03:21:32.407Z 
+20:23:27.441 INFO  getcartvolume YhKlTxuztv3kFcscNlmOqaz_vxn0GFdk performed at 2016-11-05T03:23:27.439Z 
+20:23:27.463 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T03:23:27.463Z 
+20:26:24.938 INFO  getcartvolume 6MrGNAJsSTqbalRVAXHWyuxjFUP3mEU7 performed at 2016-11-05T03:26:24.936Z 
+20:26:24.946 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-05T03:26:24.946Z 
+03:02:27.779 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:02:27.777Z 
+03:02:27.793 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:02:27.793Z 
+03:08:18.578 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:08:18.576Z 
+03:08:18.599 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:08:18.599Z 
+03:08:57.158 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:08:57.157Z 
+03:08:57.171 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:08:57.171Z 
+03:09:27.704 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:09:27.703Z 
+03:09:27.718 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:09:27.718Z 
+03:11:14.445 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:11:14.444Z 
+03:11:14.463 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:11:14.463Z 
+03:11:35.909 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:11:35.909Z 
+03:11:35.911 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:11:35.911Z 
+03:12:45.025 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:12:45.023Z 
+03:12:45.036 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:12:45.036Z 
+03:14:26.766 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:14:26.765Z 
+03:14:26.778 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:14:26.778Z 
+03:16:26.160 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:16:26.160Z 
+03:16:26.808 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:16:26.808Z 
+03:17:12.100 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:17:12.099Z 
+03:17:12.115 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:17:12.115Z 
+03:19:11.409 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:19:11.408Z 
+03:19:12.142 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:19:12.141Z 
+03:19:44.814 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:19:44.812Z 
+03:19:44.832 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:19:44.832Z 
+03:21:04.229 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:21:04.228Z 
+03:21:04.243 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:21:04.242Z 
+03:22:44.755 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:22:44.753Z 
+03:22:44.768 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:22:44.768Z 
+03:23:08.233 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:23:08.233Z 
+03:23:08.238 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:23:08.238Z 
+03:24:50.343 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:24:50.342Z 
+03:24:50.361 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:24:50.361Z 
+03:26:37.095 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:26:37.094Z 
+03:26:37.115 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:26:37.115Z 
+03:28:42.514 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:28:42.514Z 
+03:28:42.525 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:28:42.525Z 
+03:29:27.350 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:27.349Z 
+03:29:27.381 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:29:27.381Z 
+03:29:35.270 INFO  item added to cart C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:35.269Z item no 581816e203afc01c2fa5d29e 
+03:29:35.773 INFO  Cart viewed C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:35.773Z 
+03:29:38.480 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:38.479Z 
+03:29:38.482 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:29:38.482Z 
+03:29:40.387 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:40.387Z 
+03:29:40.388 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:29:40.388Z 
+03:29:42.083 INFO  view cart clicked C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:42.083Z 
+03:29:42.343 INFO  Cart viewed C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:42.343Z 
+03:29:45.363 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:29:45.363Z 
+03:29:45.370 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:29:45.370Z 
+03:32:46.507 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:32:46.507Z 
+03:32:46.510 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:32:46.510Z 
+03:34:45.566 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:34:45.566Z 
+03:34:45.570 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:34:45.570Z 
+03:34:46.517 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:34:46.517Z 
+03:35:40.455 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:35:40.455Z 
+03:35:40.459 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:35:40.459Z 
+03:36:09.136 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:36:09.135Z 
+03:36:09.139 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:36:09.139Z 
+03:37:00.798 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:37:00.798Z 
+03:37:00.800 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:37:00.800Z 
+03:38:59.994 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:38:59.993Z 
+03:39:00.809 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:39:00.809Z 
+03:39:26.809 INFO  getcartvolume C-PTPVqgKzchHp6sN9f9skrm5kc7OgN8 performed at 2016-11-05T10:39:26.808Z 
+03:39:26.823 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:39:26.823Z 
+03:40:59.771 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:40:59.771Z 
+03:40:59.774 INFO  getcartvolume YsM9Lpcl1Gv6hFJnjbwrPfZSdCLZ3jsh performed at 2016-11-05T10:40:59.774Z 
+03:41:06.912 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:41:06.912Z 
+03:41:06.915 INFO  getcartvolume Y4vIb2aM13Trz8o5OLDwHMMQ3YYA4J8I performed at 2016-11-05T10:41:06.915Z 
+03:41:08.022 INFO  view cart clicked Y4vIb2aM13Trz8o5OLDwHMMQ3YYA4J8I performed at 2016-11-05T10:41:08.021Z 
+03:41:08.418 INFO  Cart viewed Y4vIb2aM13Trz8o5OLDwHMMQ3YYA4J8I performed at 2016-11-05T10:41:08.418Z 
+03:41:10.264 INFO  item removed from cart Y4vIb2aM13Trz8o5OLDwHMMQ3YYA4J8I performed at 2016-11-05T10:41:10.264Z item no 581816e203afc01c2fa5d29e 
+03:41:12.160 INFO  getcartvolume Y4vIb2aM13Trz8o5OLDwHMMQ3YYA4J8I performed at 2016-11-05T10:41:12.160Z 
+03:41:12.201 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T10:41:12.201Z 
+03:41:18.985 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:41:18.985Z 
+03:41:18.993 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:41:18.993Z 
+03:41:20.368 INFO  item added to cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:41:20.368Z item no 581816e203afc01c2fa5d29e 
+03:41:20.779 INFO  Cart viewed kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:41:20.779Z 
+03:41:23.421 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:41:23.420Z 
+03:41:23.423 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:41:23.423Z 
+03:53:44.276 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:53:44.275Z 
+03:53:44.288 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:53:44.288Z 
+03:53:48.204 INFO  view cart clicked kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:53:48.204Z 
+03:53:48.839 INFO  Cart viewed kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:53:48.839Z 
+03:53:50.089 INFO  item removed from cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:53:50.089Z item no 581816e203afc01c2fa5d29e 
+03:53:52.004 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:53:52.004Z 
+03:53:52.007 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:53:52.007Z 
+03:53:55.292 INFO  item added to cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:53:55.292Z item no 581816e203afc01c2fa5d29e 
+03:54:39.348 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:54:39.348Z 
+03:54:39.358 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:54:39.358Z 
+03:54:47.390 INFO  item added to cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:54:47.389Z item no 581816e203afc01c2fa5d29e 
+03:56:39.494 INFO  item added to cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:56:39.494Z item no 581816e203afc01c2fa5d29e 
+03:58:43.422 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:43.422Z 
+03:58:43.424 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:58:43.424Z 
+03:58:46.519 INFO  item added to cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:46.518Z item no 581816e203afc01c2fa5d29e 
+03:58:46.888 INFO  Cart viewed kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:46.888Z 
+03:58:49.789 INFO  item removed from cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:49.789Z item no 581816e203afc01c2fa5d29e 
+03:58:51.984 INFO  getcartvolume kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:51.984Z 
+03:58:51.991 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T10:58:51.991Z 
+03:58:54.098 INFO  item added to cart kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:54.098Z item no 581816e203afc01c2fa5d29e 
+03:58:54.617 INFO  Cart viewed kQ8J8OWXGzr3GtLgY7GvrDfR3_e6L1Mw performed at 2016-11-05T10:58:54.617Z 
+04:09:49.765 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:09:49.764Z 
+04:09:49.781 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T11:09:49.781Z 
+04:09:52.675 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:09:52.675Z 
+04:09:53.246 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:09:53.246Z 
+04:11:10.105 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:11:10.105Z 
+04:11:10.570 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:11:10.570Z 
+04:11:16.597 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:11:16.597Z 
+04:11:17.184 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:11:17.183Z 
+04:12:16.130 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:12:16.130Z 
+04:12:16.500 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:12:16.500Z 
+04:12:42.879 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:12:42.879Z 
+04:12:43.362 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:12:43.362Z 
+04:14:24.818 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:14:24.817Z 
+04:14:25.376 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:14:25.376Z 
+04:14:42.189 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:14:42.189Z 
+04:14:42.736 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:14:42.735Z 
+04:15:34.408 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:15:34.408Z 
+04:15:34.799 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:15:34.799Z 
+04:15:54.112 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:15:54.111Z 
+04:15:54.669 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:15:54.668Z 
+04:15:57.098 INFO  item removed from cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:15:57.098Z item no 581816e203afc01c2fa5d29e 
+04:15:58.643 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:15:58.643Z 
+04:15:58.652 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T11:15:58.652Z 
+04:16:02.305 INFO  item added to cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:16:02.305Z item no 581816e203afc01c2fa5d29e 
+04:16:23.905 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:16:23.905Z 
+04:16:23.908 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T11:16:23.908Z 
+04:16:26.371 INFO  item added to cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:16:26.371Z item no 581816e203afc01c2fa5d29e 
+04:17:19.129 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:19.128Z 
+04:17:19.133 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T11:17:19.133Z 
+04:17:22.849 INFO  item added to cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:22.849Z item no 581816e203afc01c2fa5d29e 
+04:17:23.180 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:23.180Z 
+04:17:26.414 INFO  Cart Quantity Changed by tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:26.413Z cart item no 581dbfc2c7b64929f4b8e1a8 
+04:17:31.421 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:31.421Z 
+04:17:31.729 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:31.728Z 
+04:17:33.747 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T11:17:33.747Z 
+04:17:33.757 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T11:17:33.757Z 
+06:08:33.403 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:33.402Z 
+06:08:33.432 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:08:33.431Z 
+06:08:37.325 INFO  view cart clicked tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:37.325Z 
+06:08:37.686 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:37.686Z 
+06:08:39.189 INFO  item removed from cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:39.189Z item no 581816e203afc01c2fa5d29e 
+06:08:41.408 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:41.408Z 
+06:08:41.415 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:08:41.415Z 
+06:08:42.973 INFO  item added to cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:42.973Z item no 581816e203afc01c2fa5d29e 
+06:08:43.332 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:43.332Z 
+06:08:55.463 INFO  item removed from cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:08:55.462Z item no 581816e203afc01c2fa5d29e 
+06:09:11.749 INFO  getcartvolume tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:09:11.748Z 
+06:09:11.758 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:09:11.757Z 
+06:09:13.400 INFO  item added to cart tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:09:13.400Z item no 581816e203afc01c2fa5d29e 
+06:09:13.810 INFO  Cart viewed tDXJqdawCfBfym74rVftxNkogT9r1fyh performed at 2016-11-05T13:09:13.809Z 
+06:30:29.461 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:30:29.460Z 
+06:30:29.470 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:30:29.470Z 
+06:30:50.133 INFO  view cart clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:30:50.133Z 
+06:30:50.651 INFO  Cart viewed rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:30:50.651Z 
+06:30:52.674 INFO  item removed from cart rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:30:52.674Z item no 581816e203afc01c2fa5d29e 
+06:30:55.132 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:30:55.131Z 
+06:30:55.134 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:30:55.134Z 
+06:33:48.408 INFO  user history clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:33:48.408Z 
+06:33:48.949 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:33:48.949Z 
+06:33:48.952 INFO  User history view rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:33:48.952Z 
+06:35:47.180 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:35:47.179Z 
+06:35:47.195 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:35:47.195Z 
+06:35:49.708 INFO  user history clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:35:49.708Z 
+06:35:50.016 INFO  User history view rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:35:50.016Z 
+06:35:50.018 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:35:50.018Z 
+06:36:26.039 INFO  user history clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:36:26.039Z 
+06:36:26.525 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:36:26.525Z 
+06:36:26.530 INFO  User history view rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:36:26.530Z 
+06:50:06.782 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:06.780Z 
+06:50:06.802 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:50:06.802Z 
+06:50:08.911 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:08.911Z 
+06:50:09.557 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:09.557Z 
+06:50:09.563 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:09.563Z 
+06:50:33.561 INFO  updateSingleUserVal done by rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:33.561Z cart item no  
+06:50:37.308 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:37.308Z 
+06:50:37.916 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:37.916Z 
+06:50:37.918 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:50:37.918Z 
+06:52:44.469 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T13:52:44.469Z 
+06:52:44.474 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:44.474Z 
+06:52:46.245 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:46.245Z 
+06:52:46.787 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:46.787Z 
+06:52:46.792 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:46.792Z 
+06:52:53.813 INFO  updateSingleUserVal done by rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:53.813Z cart item no  
+06:52:56.749 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:56.749Z 
+06:52:57.310 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:57.310Z 
+06:52:57.314 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:52:57.313Z 
+06:54:18.563 INFO  updateSingleUserVal done by rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:18.563Z cart item no  
+06:54:20.688 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:20.688Z 
+06:54:21.327 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:21.327Z 
+06:54:21.330 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:21.329Z 
+06:54:44.613 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:44.613Z 
+06:54:45.254 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:45.254Z 
+06:54:45.257 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:45.257Z 
+06:54:55.415 INFO  updateSingleUserVal done by rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:55.415Z cart item no  
+06:54:57.402 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:57.402Z 
+06:54:57.943 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:57.943Z 
+06:54:57.947 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:54:57.947Z 
+06:59:35.634 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:59:35.633Z 
+06:59:36.382 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:59:36.382Z 
+06:59:36.449 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T13:59:36.449Z 
+07:01:35.585 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:01:35.585Z 
+07:01:37.570 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:01:37.570Z 
+07:02:17.014 INFO  user profile clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:02:17.013Z 
+07:02:17.743 INFO  get user info rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:02:17.743Z 
+07:02:17.808 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:02:17.808Z 
+07:06:52.259 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:06:52.258Z 
+07:06:52.271 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T14:06:52.271Z 
+07:06:54.707 INFO  post ad clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:06:54.707Z 
+07:06:55.330 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:06:55.330Z 
+07:08:22.375 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:08:22.374Z 
+07:08:22.395 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T14:08:22.395Z 
+07:08:24.096 INFO  post ad clicked rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:08:24.095Z 
+07:08:24.610 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:08:24.610Z 
+07:08:42.352 INFO  getcartvolume rQaZkeGcka4GQ8qPwpCu73p4MNn9Ny3g performed at 2016-11-05T14:08:42.351Z 
+07:08:42.355 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-05T14:08:42.354Z 
+07:08:56.032 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-05T14:08:56.032Z 
+07:08:56.036 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:08:56.036Z 
+07:16:09.560 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:16:09.559Z 
+07:16:09.573 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-05T14:16:09.573Z 
+07:16:12.612 INFO  item added to cart pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:16:12.612Z item no 581de79f817ef214f8280630 
+07:16:13.034 INFO  Cart viewed pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:16:13.034Z 
+07:16:16.568 INFO  Cart Quantity Changed by pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:16:16.567Z cart item no 581de9ac27dbd009a8156835 
+07:16:27.573 INFO  Cart Quantity Changed by pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:16:27.573Z cart item no 581de9ac27dbd009a8156835 
+07:17:09.839 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:09.837Z 
+07:17:09.851 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-05T14:17:09.851Z 
+07:17:11.264 INFO  view cart clicked pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:11.264Z 
+07:17:11.629 INFO  Cart viewed pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:11.629Z 
+07:17:13.994 INFO  Cart Quantity Changed by pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:13.994Z cart item no 581de9ac27dbd009a8156835 
+07:17:16.052 INFO  Cart Quantity Changed by pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:16.052Z cart item no 581de9ac27dbd009a8156835 
+07:17:28.068 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:28.068Z 
+07:17:28.073 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-05T14:17:28.073Z 
+07:17:30.122 INFO  item added to cart pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:30.122Z item no 581de7e9b9b3c016f0d27068 
+07:17:30.460 INFO  Cart viewed pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:30.460Z 
+07:17:31.500 INFO  view cart clicked pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:31.500Z 
+07:17:31.794 INFO  Cart viewed pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:31.794Z 
+07:17:34.563 INFO  Cart Quantity Changed by pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:34.563Z cart item no 581de9fa976f8403c0a839b0 
+07:17:36.302 INFO  Cart Quantity Changed by pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:36.302Z cart item no 581de9ac27dbd009a8156835 
+07:17:40.056 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-05T14:17:40.056Z 
+07:17:40.059 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:40.059Z 
+07:17:41.368 INFO  view cart clicked pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:41.368Z 
+07:17:41.645 INFO  Cart viewed pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:17:41.645Z 
+07:24:40.630 INFO  post ad clicked pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:24:40.629Z 
+07:24:41.357 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:24:41.357Z 
+07:25:02.933 INFO  getcartvolume pi9_yAG558ID8tBpR0CzGMp9IKFYGPMO performed at 2016-11-05T14:25:02.933Z 
+07:25:02.942 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-05T14:25:02.942Z 
+07:25:10.447 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:25:10.447Z 
+07:25:10.449 INFO  getcartvolume BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:25:10.449Z 
+07:25:21.448 INFO  addbid BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:25:21.448Z 
+07:25:21.888 INFO  getcartvolume BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:25:21.888Z 
+07:25:21.890 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:25:21.890Z 
+07:26:08.505 INFO  getcartvolume BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:26:08.504Z 
+07:26:08.529 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:26:08.528Z 
+07:26:15.326 INFO  addbid BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:26:15.326Z 
+07:26:15.680 INFO  getcartvolume BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:26:15.679Z 
+07:26:15.683 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:26:15.683Z 
+07:26:19.929 INFO  addbid BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:26:19.929Z 
+07:26:20.409 INFO  getcartvolume BhKpwqDLoCDyG26D2djOUhfrKYR_OzbX performed at 2016-11-05T14:26:20.409Z 
+07:26:20.415 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:26:20.415Z 
+07:26:28.435 INFO  getcartvolume mBtdGYvrMV6Gchp3DkZRrL6-CkGOP0n_ performed at 2016-11-05T14:26:28.435Z 
+07:26:28.440 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-05T14:26:28.440Z 
+07:26:36.356 INFO  addbid mBtdGYvrMV6Gchp3DkZRrL6-CkGOP0n_ performed at 2016-11-05T14:26:36.356Z 
+07:26:36.748 INFO  getcartvolume mBtdGYvrMV6Gchp3DkZRrL6-CkGOP0n_ performed at 2016-11-05T14:26:36.748Z 
+07:26:36.750 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-05T14:26:36.750Z 
+07:26:45.084 INFO  addbid mBtdGYvrMV6Gchp3DkZRrL6-CkGOP0n_ performed at 2016-11-05T14:26:45.084Z 
+07:26:45.419 INFO  getcartvolume mBtdGYvrMV6Gchp3DkZRrL6-CkGOP0n_ performed at 2016-11-05T14:26:45.419Z 
+07:26:45.425 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-05T14:26:45.425Z 
+07:27:21.329 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:27:21.328Z 
+07:27:21.331 INFO  getcartvolume QbBW7YWAymj387M3uUCcjw51BWOkw0GV performed at 2016-11-05T14:27:21.331Z 
+07:27:26.252 INFO  addbid QbBW7YWAymj387M3uUCcjw51BWOkw0GV performed at 2016-11-05T14:27:26.252Z 
+07:27:26.650 INFO  getcartvolume QbBW7YWAymj387M3uUCcjw51BWOkw0GV performed at 2016-11-05T14:27:26.650Z 
+07:27:26.656 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-05T14:27:26.656Z 
+19:51:55.051 INFO  getcartvolume ZaZjUpqpGEQxIHoPbvjWOeNGPk_t4WZc performed at 2016-11-06T02:51:55.049Z 
+19:51:55.068 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T02:51:55.068Z 
+19:51:58.141 INFO  user history clicked ZaZjUpqpGEQxIHoPbvjWOeNGPk_t4WZc performed at 2016-11-06T02:51:58.140Z 
+19:51:58.453 INFO  getcartvolume ZaZjUpqpGEQxIHoPbvjWOeNGPk_t4WZc performed at 2016-11-06T02:51:58.453Z 
+19:51:58.474 INFO  User history view ZaZjUpqpGEQxIHoPbvjWOeNGPk_t4WZc performed at 2016-11-06T02:51:58.474Z 
+19:52:06.482 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T02:52:06.481Z 
+19:52:06.484 INFO  getcartvolume Uc0MBCUcp8M1FD7SqrIDVF2M09Hk7fFu performed at 2016-11-06T02:52:06.484Z 
+19:52:08.264 INFO  user history clicked Uc0MBCUcp8M1FD7SqrIDVF2M09Hk7fFu performed at 2016-11-06T02:52:08.264Z 
+19:52:08.637 INFO  getcartvolume Uc0MBCUcp8M1FD7SqrIDVF2M09Hk7fFu performed at 2016-11-06T02:52:08.637Z 
+19:52:08.641 INFO  User history view Uc0MBCUcp8M1FD7SqrIDVF2M09Hk7fFu performed at 2016-11-06T02:52:08.640Z 
+19:53:24.993 INFO  getcartvolume 6rJtFlmhINM7ODks6_2jYWryaMX5jSBk performed at 2016-11-06T02:53:24.992Z 
+19:53:25.014 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T02:53:25.013Z 
+19:53:27.431 INFO  post ad clicked 6rJtFlmhINM7ODks6_2jYWryaMX5jSBk performed at 2016-11-06T02:53:27.430Z 
+19:53:28.013 INFO  getcartvolume 6rJtFlmhINM7ODks6_2jYWryaMX5jSBk performed at 2016-11-06T02:53:28.013Z 
+19:53:33.253 INFO  getcartvolume 3d8stLpc3_PfqNGJFicDZn5AawdHCuit performed at 2016-11-06T02:53:33.253Z 
+19:53:33.255 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T02:53:33.255Z 
+19:53:36.133 INFO  post ad clicked 3d8stLpc3_PfqNGJFicDZn5AawdHCuit performed at 2016-11-06T02:53:36.133Z 
+19:53:36.601 INFO  getcartvolume 3d8stLpc3_PfqNGJFicDZn5AawdHCuit performed at 2016-11-06T02:53:36.601Z 
+19:53:51.891 INFO  getcartvolume 3d8stLpc3_PfqNGJFicDZn5AawdHCuit performed at 2016-11-06T02:53:51.890Z 
+19:53:51.894 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T02:53:51.894Z 
+19:53:59.836 INFO  getcartvolume UpzZ-ZVQZxpSWwTHcszu2V4cps6VabJT performed at 2016-11-06T02:53:59.836Z 
+19:53:59.841 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T02:53:59.840Z 
+19:54:40.841 INFO  addbid UpzZ-ZVQZxpSWwTHcszu2V4cps6VabJT performed at 2016-11-06T02:54:40.841Z 
+19:54:41.320 INFO  getcartvolume UpzZ-ZVQZxpSWwTHcszu2V4cps6VabJT performed at 2016-11-06T02:54:41.320Z 
+19:54:41.327 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T02:54:41.327Z 
+20:00:17.155 INFO  getcartvolume 5-tTgVZUiiUDdqZQ7ZV03THGQQXxh7v0 performed at 2016-11-06T03:00:17.154Z 
+20:00:17.167 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T03:00:17.167Z 
+20:00:19.213 INFO  post ad clicked 5-tTgVZUiiUDdqZQ7ZV03THGQQXxh7v0 performed at 2016-11-06T03:00:19.213Z 
+20:00:19.736 INFO  getcartvolume 5-tTgVZUiiUDdqZQ7ZV03THGQQXxh7v0 performed at 2016-11-06T03:00:19.736Z 
+20:00:30.349 INFO  getcartvolume 5-tTgVZUiiUDdqZQ7ZV03THGQQXxh7v0 performed at 2016-11-06T03:00:30.349Z 
+20:00:30.353 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T03:00:30.353Z 
+20:00:37.116 INFO  getcartvolume AYPhOIkJn_FE0nM8qULGZzCprt7ddGZE performed at 2016-11-06T03:00:37.116Z 
+20:00:37.122 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T03:00:37.121Z 
+20:00:43.047 INFO  addbid AYPhOIkJn_FE0nM8qULGZzCprt7ddGZE performed at 2016-11-06T03:00:43.047Z 
+20:00:43.388 INFO  getcartvolume AYPhOIkJn_FE0nM8qULGZzCprt7ddGZE performed at 2016-11-06T03:00:43.388Z 
+20:00:43.392 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T03:00:43.392Z 
+02:19:09.976 INFO  getcartvolume 9IGTuRtvo3Mv5pWko7-KFiplw0t4Fou3 performed at 2016-11-06T10:19:09.975Z 
+02:19:09.986 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:19:09.985Z 
+02:19:13.873 INFO  post ad clicked 9IGTuRtvo3Mv5pWko7-KFiplw0t4Fou3 performed at 2016-11-06T10:19:13.873Z 
+02:19:14.565 INFO  getcartvolume 9IGTuRtvo3Mv5pWko7-KFiplw0t4Fou3 performed at 2016-11-06T10:19:14.565Z 
+02:19:31.244 INFO  getcartvolume 9IGTuRtvo3Mv5pWko7-KFiplw0t4Fou3 performed at 2016-11-06T10:19:31.244Z 
+02:19:31.245 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:19:31.245Z 
+02:19:38.566 INFO  getcartvolume bZLQzW8E3uPvupGOsCTgZ0vRgekOR8u- performed at 2016-11-06T10:19:38.566Z 
+02:19:38.570 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T10:19:38.570Z 
+02:19:44.359 INFO  addbid bZLQzW8E3uPvupGOsCTgZ0vRgekOR8u- performed at 2016-11-06T10:19:44.359Z 
+02:19:44.671 INFO  getcartvolume bZLQzW8E3uPvupGOsCTgZ0vRgekOR8u- performed at 2016-11-06T10:19:44.671Z 
+02:19:44.676 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T10:19:44.676Z 
+02:19:51.435 INFO  getcartvolume vYz0mU413LKuJ4SKSQoiSp_U0Gi2fLm2 performed at 2016-11-06T10:19:51.435Z 
+02:19:51.438 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:19:51.438Z 
+02:19:57.989 INFO  addbid vYz0mU413LKuJ4SKSQoiSp_U0Gi2fLm2 performed at 2016-11-06T10:19:57.989Z 
+02:19:58.361 INFO  getcartvolume vYz0mU413LKuJ4SKSQoiSp_U0Gi2fLm2 performed at 2016-11-06T10:19:58.361Z 
+02:19:58.369 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:19:58.369Z 
+02:22:41.287 INFO  getcartvolume _YorViKlxGi9k7A0-hdq6kzrvZH_cZbq performed at 2016-11-06T10:22:41.287Z 
+02:22:41.290 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:22:41.290Z 
+02:22:45.812 INFO  user history clicked _YorViKlxGi9k7A0-hdq6kzrvZH_cZbq performed at 2016-11-06T10:22:45.812Z 
+02:22:46.221 INFO  getcartvolume _YorViKlxGi9k7A0-hdq6kzrvZH_cZbq performed at 2016-11-06T10:22:46.221Z 
+02:22:46.231 INFO  User history view _YorViKlxGi9k7A0-hdq6kzrvZH_cZbq performed at 2016-11-06T10:22:46.231Z 
+02:22:53.573 INFO  getcartvolume Oifabp7gx5yPbdWksRZHyT_DWNz14myX performed at 2016-11-06T10:22:53.573Z 
+02:22:53.576 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T10:22:53.576Z 
+02:22:54.977 INFO  user history clicked Oifabp7gx5yPbdWksRZHyT_DWNz14myX performed at 2016-11-06T10:22:54.977Z 
+02:22:55.294 INFO  User history view Oifabp7gx5yPbdWksRZHyT_DWNz14myX performed at 2016-11-06T10:22:55.294Z 
+02:22:55.297 INFO  getcartvolume Oifabp7gx5yPbdWksRZHyT_DWNz14myX performed at 2016-11-06T10:22:55.297Z 
+02:39:56.632 INFO  getcartvolume gUBKgGXY0LTTF0Hw2azuUa79O1Avw6_a performed at 2016-11-06T10:39:56.631Z 
+02:39:56.649 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T10:39:56.649Z 
+02:40:21.698 INFO  getcartvolume 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:40:21.698Z 
+02:40:21.710 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:40:21.710Z 
+02:40:26.051 INFO  item added to cart 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:40:26.051Z item no 581816e203afc01c2fa5d29e 
+02:40:26.664 INFO  Cart viewed 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:40:26.664Z 
+02:41:07.086 INFO  payment transaction 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:41:07.086Z 
+02:41:07.088 INFO  payment successful 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:41:07.088Z 
+02:42:05.434 INFO  getcartvolume 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:42:05.433Z 
+02:42:05.456 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:42:05.456Z 
+02:42:10.545 INFO  view cart clicked 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:42:10.545Z 
+02:42:10.938 INFO  Cart viewed 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:42:10.938Z 
+02:42:27.593 INFO  payment transaction 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:42:27.593Z 
+02:42:27.596 INFO  payment successful 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:42:27.596Z 
+02:42:27.956 INFO  getcartvolume 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:42:27.956Z 
+02:42:27.962 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:42:27.962Z 
+02:43:58.098 INFO  item added to cart 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:43:58.097Z item no 581816e203afc01c2fa5d29e 
+02:43:58.833 INFO  Cart viewed 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:43:58.833Z 
+02:44:18.225 INFO  payment transaction 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:44:18.225Z 
+02:44:18.227 INFO  payment successful 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:44:18.227Z 
+02:44:18.685 INFO  getcartvolume 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:44:18.685Z 
+02:44:18.694 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:44:18.694Z 
+02:45:26.316 INFO  item added to cart 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:45:26.315Z item no 581816e203afc01c2fa5d29e 
+02:45:26.997 INFO  Cart viewed 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:45:26.997Z 
+02:45:43.800 INFO  payment transaction 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:45:43.800Z 
+02:45:43.802 INFO  payment successful 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:45:43.802Z 
+02:45:44.182 INFO  getcartvolume 6NLqDNJzK9qWHaM809r_3w9nqUWiR4fC performed at 2016-11-06T10:45:44.182Z 
+02:45:44.194 INFO  getad 581d5158fe135517546c8be9 performed at 2016-11-06T10:45:44.194Z 
+02:48:12.861 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:48:12.860Z 
+02:48:12.885 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:48:12.885Z 
+02:48:16.134 INFO  item added to cart 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:48:16.134Z item no 581816e203afc01c2fa5d29e 
+02:48:16.613 INFO  Cart viewed 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:48:16.613Z 
+02:48:30.809 INFO  payment transaction 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:48:30.809Z 
+02:48:30.811 INFO  payment successful 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:48:30.811Z 
+02:48:31.323 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:48:31.323Z 
+02:48:31.326 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:48:31.326Z 
+02:49:10.212 INFO  user history clicked 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:10.212Z 
+02:49:10.614 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:10.614Z 
+02:49:10.618 INFO  User history view 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:10.618Z 
+02:49:39.144 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:39.144Z 
+02:49:39.148 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:49:39.148Z 
+02:49:42.793 INFO  view cart clicked 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:42.793Z 
+02:49:43.197 INFO  Cart viewed 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:43.197Z 
+02:49:45.653 INFO  user history clicked 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:45.653Z 
+02:49:45.981 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:45.980Z 
+02:49:45.983 INFO  User history view 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:49:45.983Z 
+02:50:13.351 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:50:13.351Z 
+02:50:13.355 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:50:13.355Z 
+02:50:19.362 INFO  user history clicked 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:50:19.361Z 
+02:50:19.712 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:50:19.712Z 
+02:50:19.734 INFO  User history view 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:50:19.734Z 
+02:52:40.818 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:52:40.817Z 
+02:52:40.835 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:52:40.835Z 
+02:52:45.682 INFO  item added to cart 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:52:45.682Z item no 581816e203afc01c2fa5d29e 
+02:52:46.050 INFO  Cart viewed 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:52:46.050Z 
+02:52:57.667 INFO  payment transaction 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:52:57.667Z 
+02:52:57.669 INFO  payment successful 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:52:57.669Z 
+02:52:58.041 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:52:58.041Z 
+02:52:58.044 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T10:52:58.044Z 
+02:53:00.622 INFO  user history clicked 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:53:00.622Z 
+02:53:00.975 INFO  getcartvolume 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:53:00.975Z 
+02:53:00.980 INFO  User history view 2Ochbad6lFlSJgrIk9-jyxdFqLlmBrno performed at 2016-11-06T10:53:00.979Z 
+03:57:27.749 INFO  getcartvolume utHPuRTSC51aj4ezbeGDLt6sfrSP2rWU performed at 2016-11-06T11:57:27.749Z 
+03:57:27.751 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T11:57:27.751Z 
+04:13:29.871 INFO  getcartvolume utHPuRTSC51aj4ezbeGDLt6sfrSP2rWU performed at 2016-11-06T12:13:29.870Z 
+04:13:29.887 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T12:13:29.887Z 
+04:13:33.090 INFO  view cart clicked utHPuRTSC51aj4ezbeGDLt6sfrSP2rWU performed at 2016-11-06T12:13:33.089Z 
+04:13:33.455 INFO  Cart viewed utHPuRTSC51aj4ezbeGDLt6sfrSP2rWU performed at 2016-11-06T12:13:33.455Z 
+04:30:16.827 INFO  getcartvolume T_yyoKcsDrkIkVvYS8JNvy3TDrz1N1yW performed at 2016-11-06T12:30:16.826Z 
+04:30:16.845 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T12:30:16.845Z 
+04:44:45.488 INFO  getcartvolume Qpe_bvVLEMow5-pZoax2-Otk--8-aYzc performed at 2016-11-06T12:44:45.487Z 
+04:44:45.503 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T12:44:45.503Z 
+04:44:54.707 INFO  getcartvolume Qpe_bvVLEMow5-pZoax2-Otk--8-aYzc performed at 2016-11-06T12:44:54.707Z 
+04:44:54.713 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T12:44:54.713Z 
+04:45:59.749 INFO  getcartvolume Qpe_bvVLEMow5-pZoax2-Otk--8-aYzc performed at 2016-11-06T12:45:59.748Z 
+04:45:59.764 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T12:45:59.764Z 
+10:19:45.547 INFO  getcartvolume 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:19:45.546Z 
+10:19:45.564 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T18:19:45.563Z 
+10:19:49.969 INFO  item added to cart 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:19:49.969Z item no 581816e203afc01c2fa5d29e 
+10:19:50.420 INFO  Cart viewed 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:19:50.420Z 
+10:20:04.007 INFO  payment transaction 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:20:04.006Z 
+10:20:04.010 INFO  payment successful 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:20:04.010Z 
+10:20:04.400 INFO  getcartvolume 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:20:04.399Z 
+10:20:04.401 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T18:20:04.401Z 
+10:20:12.655 INFO  user history clicked 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:20:12.654Z 
+10:20:13.035 INFO  getcartvolume 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:20:13.035Z 
+10:20:13.041 INFO  User history view 2yrSbGCth4CllFu6u7JOrhf5IMucmrHD performed at 2016-11-06T18:20:13.041Z 
+10:26:55.892 INFO  getcartvolume LeHJkBSVErKfkm5y0-aBp1CMqkxwSZoU performed at 2016-11-06T18:26:55.891Z 
+10:26:55.906 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T18:26:55.906Z 
+10:28:10.706 INFO  getcartvolume LeHJkBSVErKfkm5y0-aBp1CMqkxwSZoU performed at 2016-11-06T18:28:10.704Z 
+10:28:10.719 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T18:28:10.718Z 
+10:28:20.462 INFO  user history clicked LeHJkBSVErKfkm5y0-aBp1CMqkxwSZoU performed at 2016-11-06T18:28:20.462Z 
+10:28:20.844 INFO  User history view LeHJkBSVErKfkm5y0-aBp1CMqkxwSZoU performed at 2016-11-06T18:28:20.844Z 
+10:28:20.847 INFO  getcartvolume LeHJkBSVErKfkm5y0-aBp1CMqkxwSZoU performed at 2016-11-06T18:28:20.847Z 
+10:29:40.690 INFO  getcartvolume xFTt5gXN8pVGGlKN1XHK0smir6tO8L5G performed at 2016-11-06T18:29:40.689Z 
+10:29:40.704 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T18:29:40.704Z 
+10:29:43.777 INFO  item added to cart xFTt5gXN8pVGGlKN1XHK0smir6tO8L5G performed at 2016-11-06T18:29:43.777Z item no 581816e203afc01c2fa5d29e 
+10:29:44.132 INFO  Cart viewed xFTt5gXN8pVGGlKN1XHK0smir6tO8L5G performed at 2016-11-06T18:29:44.132Z 
+10:29:46.993 INFO  Cart Quantity Changed by xFTt5gXN8pVGGlKN1XHK0smir6tO8L5G performed at 2016-11-06T18:29:46.993Z cart item no 581f76975250cd2bd84da543 
+10:29:50.708 INFO  Cart Quantity Changed by xFTt5gXN8pVGGlKN1XHK0smir6tO8L5G performed at 2016-11-06T18:29:50.708Z cart item no 581f76975250cd2bd84da543 
+12:03:02.388 INFO  getcartvolume It7Kc4TkRX0gg2_dVK3mnGtc3gUU4REz performed at 2016-11-06T20:03:02.388Z 
+12:03:02.390 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T20:03:02.390Z 
+12:51:56.184 INFO  getcartvolume BDzcnTxzvhny1_TjADgJdc6QnPqKXCGc performed at 2016-11-06T20:51:56.183Z 
+12:51:56.197 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T20:51:56.197Z 
+12:52:15.425 INFO  view cart clicked BDzcnTxzvhny1_TjADgJdc6QnPqKXCGc performed at 2016-11-06T20:52:15.425Z 
+12:52:15.877 INFO  Cart viewed 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:15.877Z 
+12:52:17.980 INFO  item removed from cart 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:17.980Z item no 581816e203afc01c2fa5d29e 
+12:52:20.663 INFO  getcartvolume BDzcnTxzvhny1_TjADgJdc6QnPqKXCGc performed at 2016-11-06T20:52:20.663Z 
+12:52:20.667 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:20.667Z 
+12:52:27.375 INFO  item added to cart 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:27.374Z item no 581de7e9b9b3c016f0d27068 
+12:52:27.696 INFO  Cart viewed 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:27.696Z 
+12:52:33.841 INFO  getcartvolume BDzcnTxzvhny1_TjADgJdc6QnPqKXCGc performed at 2016-11-06T20:52:33.840Z 
+12:52:33.847 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:33.847Z 
+12:52:38.708 INFO  item added to cart 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:38.708Z item no 581de79f817ef214f8280630 
+12:52:39.033 INFO  Cart viewed 581816f703afc01c2fa5d29f performed at 2016-11-06T20:52:39.032Z 
+12:54:59.779 INFO  getcartvolume 2UPWIhC4KZP0io7Yxh-d-_fXc9ds484_ performed at 2016-11-06T20:54:59.779Z 
+12:54:59.784 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T20:54:59.784Z 
+12:55:15.371 INFO  getcartvolume V3IA8nlfFKOl9K0G_dvoY5vVEeRt1NKr performed at 2016-11-06T20:55:15.370Z 
+12:55:15.375 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T20:55:15.374Z 
+12:58:08.717 INFO  getcartvolume V3IA8nlfFKOl9K0G_dvoY5vVEeRt1NKr performed at 2016-11-06T20:58:08.716Z 
+12:58:08.730 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T20:58:08.730Z 
+12:58:33.081 INFO  getcartvolume NJEJ2NOAQV8QvHrnesxtK4PyIH_SDI0I performed at 2016-11-06T20:58:33.081Z 
+12:58:33.083 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T20:58:33.083Z 
+13:19:22.846 INFO  getcartvolume xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:22.845Z 
+13:19:22.859 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T21:19:22.859Z 
+13:19:25.738 INFO  getcartvolume xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:25.738Z 
+13:19:25.759 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T21:19:25.759Z 
+13:19:26.651 INFO  post ad clicked xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:26.651Z 
+13:19:27.193 INFO  getcartvolume xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:27.193Z 
+13:19:27.938 INFO  user profile clicked xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:27.938Z 
+13:19:28.465 INFO  get user info xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:28.465Z 
+13:19:28.475 INFO  getcartvolume xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:28.475Z 
+13:19:47.138 INFO  getcartvolume xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:47.138Z 
+13:19:47.141 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-06T21:19:47.141Z 
+13:19:49.626 INFO  user profile clicked xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:49.626Z 
+13:19:50.213 INFO  get user info xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:50.213Z 
+13:19:50.219 INFO  getcartvolume xnbonjHVqvwwD92heDXw_uqeWY8uzxRl performed at 2016-11-06T21:19:50.218Z 
+13:20:13.838 INFO  getcartvolume 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:20:13.838Z 
+13:20:13.842 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T21:20:13.842Z 
+13:20:15.763 INFO  user profile clicked 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:20:15.762Z 
+13:20:16.303 INFO  get user info 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:20:16.303Z 
+13:20:16.321 INFO  getcartvolume 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:20:16.321Z 
+13:21:16.117 INFO  user profile clicked 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:21:16.117Z 
+13:21:16.804 INFO  get user info 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:21:16.804Z 
+13:21:16.813 INFO  getcartvolume 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:21:16.813Z 
+13:22:34.295 INFO  user profile clicked 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:22:34.294Z 
+13:22:34.968 INFO  get user info 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:22:34.968Z 
+13:22:35.031 INFO  getcartvolume 9Xj3AXownLq6QeREREYkQwJD7IPbZale performed at 2016-11-06T21:22:35.031Z 
+13:55:47.278 INFO  getcartvolume 6EdgyNhRbb-6_K5YxUNsvWnFABIgc-Vc performed at 2016-11-06T21:55:47.277Z 
+13:55:47.292 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-06T21:55:47.292Z 
+01:34:59.276 INFO  getcartvolume XInSErj1IQLFTqbOsTxYnlj_eGzzevnF performed at 2016-11-07T09:34:59.275Z 
+01:34:59.290 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T09:34:59.290Z 
+01:35:09.355 INFO  getcartvolume 8fQRktv-dczu6JIMv9siagDGLo2z8VOW performed at 2016-11-07T09:35:09.355Z 
+01:35:09.360 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T09:35:09.360Z 
+02:32:18.126 INFO  getcartvolume CPnWFtVwSB7vEadQVf3FTZqNHL0GWnzf performed at 2016-11-07T10:32:18.124Z 
+02:32:18.139 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T10:32:18.139Z 
+02:32:19.678 INFO  post ad clicked CPnWFtVwSB7vEadQVf3FTZqNHL0GWnzf performed at 2016-11-07T10:32:19.678Z 
+02:32:20.245 INFO  getcartvolume CPnWFtVwSB7vEadQVf3FTZqNHL0GWnzf performed at 2016-11-07T10:32:20.244Z 
+02:32:41.755 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T10:32:41.754Z 
+02:32:41.759 INFO  getcartvolume CPnWFtVwSB7vEadQVf3FTZqNHL0GWnzf performed at 2016-11-07T10:32:41.759Z 
+02:32:51.958 INFO  getcartvolume hBgRQKp6NWMORAmegPpX8kdzzL7POCY- performed at 2016-11-07T10:32:51.958Z 
+02:32:51.965 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-07T10:32:51.964Z 
+02:43:20.808 INFO  getcartvolume hBgRQKp6NWMORAmegPpX8kdzzL7POCY- performed at 2016-11-07T10:43:20.808Z 
+02:43:20.810 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-07T10:43:20.810Z 
+02:43:22.090 INFO  post ad clicked hBgRQKp6NWMORAmegPpX8kdzzL7POCY- performed at 2016-11-07T10:43:22.090Z 
+02:43:22.584 INFO  getcartvolume hBgRQKp6NWMORAmegPpX8kdzzL7POCY- performed at 2016-11-07T10:43:22.584Z 
+02:43:39.241 INFO  getcartvolume hBgRQKp6NWMORAmegPpX8kdzzL7POCY- performed at 2016-11-07T10:43:39.240Z 
+02:43:39.244 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-07T10:43:39.244Z 
+02:47:46.049 INFO  getcartvolume 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:47:46.048Z 
+02:47:46.056 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-07T10:47:46.055Z 
+02:47:59.739 INFO  item added to cart 581816f703afc01c2fa5d29f performed at 2016-11-07T10:47:59.739Z item no 581816e203afc01c2fa5d29e 
+02:48:00.366 INFO  Cart viewed 581816f703afc01c2fa5d29f performed at 2016-11-07T10:48:00.366Z 
+02:48:02.311 INFO  item removed from cart 581816f703afc01c2fa5d29f performed at 2016-11-07T10:48:02.311Z item no 581de79f817ef214f8280630 
+02:48:03.275 INFO  item removed from cart 581816f703afc01c2fa5d29f performed at 2016-11-07T10:48:03.275Z item no 581de7e9b9b3c016f0d27068 
+02:48:05.553 INFO  getcartvolume 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:05.553Z 
+02:48:05.560 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-07T10:48:05.560Z 
+02:48:15.830 INFO  item added to cart 581816f703afc01c2fa5d29f performed at 2016-11-07T10:48:15.830Z item no 581de79f817ef214f8280630 
+02:48:16.162 INFO  Cart viewed 581816f703afc01c2fa5d29f performed at 2016-11-07T10:48:16.162Z 
+02:48:21.195 INFO  user history clicked 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:21.195Z 
+02:48:21.602 INFO  getcartvolume 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:21.602Z 
+02:48:21.606 INFO  User history view 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:21.606Z 
+02:48:28.055 INFO  user profile clicked 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:28.055Z 
+02:48:28.683 INFO  get user info 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:28.683Z 
+02:48:28.685 INFO  getcartvolume 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:28.685Z 
+02:48:36.542 INFO  updateSingleUserVal done by 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:36.542Z cart item no  
+02:48:44.835 INFO  updateSingleUserVal done by 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:44.835Z cart item no  
+02:48:53.771 INFO  updateSingleUserVal done by 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:48:53.771Z cart item no  
+02:49:00.642 INFO  updateSingleUserVal done by 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:49:00.642Z cart item no  
+02:49:02.619 INFO  user profile clicked 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:49:02.618Z 
+02:49:03.359 INFO  get user info 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:49:03.359Z 
+02:49:03.364 INFO  getcartvolume 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T10:49:03.364Z 
+03:04:49.172 INFO  getad 581816f703afc01c2fa5d29f performed at 2016-11-07T11:04:49.172Z 
+03:04:49.181 INFO  getcartvolume 7jG6lcz2wYVyqbHRN77WUzACXNfz5OLR performed at 2016-11-07T11:04:49.181Z 
+03:05:01.217 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-07T11:05:01.217Z 
+03:05:01.219 INFO  getcartvolume _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:01.219Z 
+03:05:04.151 INFO  user profile clicked _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:04.151Z 
+03:05:04.633 INFO  getcartvolume _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:04.633Z 
+03:05:04.636 INFO  get user info _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:04.636Z 
+03:05:11.130 INFO  updateSingleUserVal done by _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:11.130Z cart item no  
+03:05:18.029 INFO  updateSingleUserVal done by _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:18.029Z cart item no  
+03:05:25.349 INFO  getcartvolume _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T11:05:25.349Z 
+03:05:25.353 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-07T11:05:25.353Z 
+04:20:12.561 INFO  getcartvolume _QOhdVsXuB3JunHJ6u0fkB-cosUuwC09 performed at 2016-11-07T12:20:12.561Z 
+04:20:12.573 INFO  getad 5818f6f82d368364235b9b50 performed at 2016-11-07T12:20:12.572Z 
+07:41:24.815 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:41:24.814Z 
+07:41:24.848 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T15:41:24.848Z 
+07:41:28.046 INFO  user profile clicked OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:41:28.046Z 
+07:41:28.776 INFO  get user info OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:41:28.776Z 
+07:41:28.782 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:41:28.781Z 
+07:41:41.980 INFO  post ad clicked OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:41:41.980Z 
+07:41:42.753 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:41:42.753Z 
+07:42:03.862 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:03.862Z 
+07:42:03.864 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T15:42:03.864Z 
+07:42:06.805 INFO  user history clicked OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:06.805Z 
+07:42:07.162 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:07.162Z 
+07:42:07.165 INFO  User history view OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:07.165Z 
+07:42:11.270 INFO  user profile clicked OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:11.270Z 
+07:42:11.815 INFO  get user info OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:11.815Z 
+07:42:11.834 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:11.834Z 
+07:42:17.981 INFO  updateSingleUserVal done by OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:17.981Z cart item no  
+07:42:22.372 INFO  view cart clicked OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:22.372Z 
+07:42:23.112 INFO  Cart viewed 581813058d7ca47437c59386 performed at 2016-11-07T15:42:23.112Z 
+07:42:26.312 INFO  getcartvolume OdQA_5HyS0bNL8K608JkI_DPSm-DbFlG performed at 2016-11-07T15:42:26.312Z 
+07:42:26.316 INFO  getad 581813058d7ca47437c59386 performed at 2016-11-07T15:42:26.316Z 
+07:42:28.348 INFO  item added to cart 581813058d7ca47437c59386 performed at 2016-11-07T15:42:28.348Z item no 581de79f817ef214f8280630 
+07:42:29.024 INFO  Cart viewed 581813058d7ca47437c59386 performed at 2016-11-07T15:42:29.024Z 

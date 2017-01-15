@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  	<title>Bootstrap Case</title>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
+</head>
+<body >
+	   <!-- start copy here -->
+	   <style>
+	    .dropdown-menu {
+		  	width: 100%; 
+		}
+		
+		.dropdown-toggle{
+		 	width: 100%;
+		}
+	    </style>
+	     <div class="row">
+        	<div class="col-md-1 col-md-offset-2">
+            	<h1 id="imgh"><a href="/"><img role="presentation" id="ebayimg" width=100 height=50 alt="eBay" src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" class="image-responsive"></a></h1>
+            	<!--http://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png-->
+        	</div>
+    	</div>
+		<div class= "container" >
+            <div class="panel panel-success" >
+                <div class="panel-heading">
+                    <h2 id="describe">User Information</h2>
+                </div>
+
+                <div class="panel-body">
+
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">Firstname</label>
+                        </div>
+                        <div class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= firstname %></label>
+                        </div>
+                        
+                    </div><br>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">Lastname</label>
+                        </div>
+                        <div class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= lastname %></label>
+                        </div>
+                        
+                    </div><br>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">e-mail</label>
+                        </div>
+                        <div class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= email %></label>
+                        </div>
+                    </div><br>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">address</label>
+                        </div>
+                        <div  class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= address %></label>
+                        </div>
+                    </div><br>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">birth date</label>
+                        </div>
+                        <div  class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= birthdate %></label>
+                       	</div>
+                        
+                    </div><br>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">phoneno</label>
+                        	
+                        </div>
+                        <div class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= phonenumber %></label>
+                        </div>
+    					
+                    </div><br>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label  class="control-label">last active time</label>
+                        </div>
+                        <div class="col-md-offset-1 col-md-9">
+                            <label  class="control-label"><%= logintime %></label>
+                        </div>
+                    </div><br>
+                </div>
+            </div>
+        </div>    
+</body>
+</html>
+

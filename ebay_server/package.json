@@ -1,0 +1,17 @@
+{
+  "name": "ebay_server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "bcrypt-nodejs": "latest",
+    "ejs": "*",
+    "express": "3.2.6",
+    "mongodb": "^2.2.11",
+    "simple-node-logger": "^0.93.12",
+    "bcrypt-nodejs" : "latest"
+  }
+}

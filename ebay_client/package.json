@@ -1,0 +1,19 @@
+{
+  "name": "ebay_client",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+	  "body-parser": "^1.15.2",
+	  "cookie-parser": "^1.4.3",
+	  "ejs": "*",
+	  "express": "3.2.6",
+	  "express-session": "^1.14.2",
+	  "simple-node-logger": "^0.93.12",
+	  "bcrypt-nodejs" : "latest",
+	  "mongodb": "^2.2.11",
+	  "mocha": "^3.1.2"
+  }
+}
